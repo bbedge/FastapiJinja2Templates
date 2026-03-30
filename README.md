@@ -1,3 +1,3 @@
 
-### Базовый шаблон FaspAPI + Jinja2Templates
+### Базовый шаблон FastAPI + Jinja2Templates
 
