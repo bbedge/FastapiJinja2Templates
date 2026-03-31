@@ -11,7 +11,7 @@ title = "FastAPI + Jinja2, пример."
 # Подключение favicon
 @router.get("/favicon.ico", include_in_schema=False, summary="Подключение иконки.")
 async def favicon():
-    response = FileResponse("static/images/favicon.ico")
+    response = FileResponse("app/static/images/favicon.ico")
     response.headers["Cache-Control"] = "public, max-age=31536000"
     return response
 
