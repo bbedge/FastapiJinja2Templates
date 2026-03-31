@@ -1,5 +1,8 @@
 
-### Базовый шаблон FastAPI + Jinja2Templates
+## Базовый пример FastAPI + Jinja2Templates
+
+### Описание
+
 
 ### Структура
 

@@ -5,7 +5,7 @@ from fastapi.responses import HTMLResponse, FileResponse
 
 templates = Jinja2Templates(directory="app/templates")
 router = APIRouter(tags=['Frontend'])
-title = "FastAPI + Jinja2, example."
+title = "FastAPI + Jinja2, пример."
 
 
 # Подключение favicon
