@@ -1,11 +1,10 @@
-.DS_Store
-
 # local env files
 .env
 .env.local
 .env.*.local
 
 # Editor directories and files
+.DS_Store
 .idea
 .vscode
 venv
@@ -14,3 +13,5 @@ venv
 *.njsproj
 *.sln
 *.sw?
+*.db
+*.sqlite
